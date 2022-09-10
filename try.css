@@ -1,0 +1,44 @@
+  h1 {
+      lign: center;
+      pg: 23px;
+      baound-color: skyblue;
+      col white;
+
+
+      ea {
+          width: 270px;
+          : 3px solid gray;
+          b-radius: 3px;
+          pag: 20px;
+          bacound-color: red;
+
+
+          rmtyle {
+              width: 300px;
+              : 530px;
+              m: auto;
+              bo: 3px solid skyblue;
+              bor-radius: 5px;
+              padg: 20px;
+
+
+
+
+              ut {
+                  width: 20px;
+                  ound-color: green;
+                  c white;
+                  bo: 3px solid gray;
+                  bor-radius: 5px;
+                  paddg: 26px;
+                  margi: 5px;
+                  font-size: 15px;
+
+
+
+                  #{
+ wi 250px;
+                  bor: 5px solid black;
+                  bord-radius: 3px;
+                  paddig: 20px;
+                  margin: auto;
